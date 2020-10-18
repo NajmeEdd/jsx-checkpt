@@ -1,0 +1,19 @@
+.red {
+  color: red;
+}
+
+.title {
+  text-decoration: underline;
+  text-align: center;
+}
+
+.image {
+  width: 300px;
+  display: block;
+  margin: auto;
+}
+.video {
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+}
